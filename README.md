@@ -5,7 +5,7 @@ A data analysis assignment for Columbia University's AI bootcamp.
 I worked with ChatGPt4o to complete this assignment.
 
 ## Project Overview
-As a business intelligence data analysts, I’m working with a company that specializes in student loan refinancing. The company wants me to provide a solution that will predict whether a borrower will repay their loan, allowing them to provide a more accurate interest rate for the borrower. The company has asked me to create a model to predict student loan repayment based on CSV file located in resources which contains information about previous student loan recipients, such as their credit ranking.
+As a business intelligence data analysts, I’m working with a company that specializes in student loan refinancing. The company wants me to provide a solution that will predict whether a borrower will repay their loan, allowing them to provide a more accurate interest rate for the borrower. The company has asked me to create a model to predict student loan repayment based on CSV file also located in repository which contains information about previous student loan recipients, such as their credit ranking.
 
 ## Methods
 Given my task, available data, and tools, I decided to use a neural network model to predict student loan repayment. The solution/code is written in Python and uses the TensorFlow library to build and train the neural network model. The model is trained on the data provided in the CSV file, and the model's performance is evaluated using the test data.
